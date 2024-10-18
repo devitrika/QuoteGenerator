@@ -8,6 +8,6 @@ Welcome to the Random Quote Generator! This project generates a random quote eac
 - Simple and easy-to-use interface.
 
 ## Live Link 
-
+https://devitrika.github.io/QuoteGenerator/
 
 
